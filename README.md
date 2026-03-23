@@ -45,7 +45,7 @@ make stop
 
 ---
 
-## Quickstart — run locally
+## Quickstart run locally
 
 ```bash
 git clone <repo-url>
@@ -68,7 +68,7 @@ The API will be available at `http://localhost:8000`.
 
 ### Interactive docs
 
-Open `http://localhost:8000/docs` in the browser — FastAPI generates a full Swagger UI where we can test both endpoints directly.
+Open `http://localhost:8000/docs` in the browser FastAPI generates a full Swagger UI where we can test both endpoints directly.
 
 ### Health check
 
