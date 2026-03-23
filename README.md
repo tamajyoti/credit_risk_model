@@ -49,7 +49,7 @@ make stop
 
 ```bash
 git clone <repo-url>
-cd credit-risk
+cd credit_risk_model
 
 pip install -r requirements.txt
 
